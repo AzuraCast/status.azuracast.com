@@ -20,7 +20,7 @@ status-website:
   logoUrl: https://github.com/AzuraCast/AzuraCast/raw/main/resources/icon.svg
   name: AzuraCast
   introTitle: "**AzuraCast** is a free and open-source, self-hosted web radio management suite."
-  theme: dark
+  theme: night
   navbar:
     - title: Status
       href: /
