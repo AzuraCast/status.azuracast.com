@@ -24,8 +24,10 @@ status-website:
   navbar:
     - title: Status
       href: /
+    - title: Home
+      href: https://www.azuracast.com/
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/AzuraCast
 
 assignees:
   - BusterNeece
