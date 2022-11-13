@@ -31,12 +31,12 @@ assignees:
   - BusterNeece
 
 workflowSchedule:
-  graphs: "0 0 * * *"
-  responseTime: "0 23 * * *"
-  staticSite: "0 1 * * *"
-  summary: "0 0 * * *"
-  updateTemplate: "0 0 * * *"
-  updates: "0 3 * * *"
+  graphs: "5 0 * * *"
+  responseTime: "5 23 * * *"
+  staticSite: "5 1 * * *"
+  summary: "5 0 * * *"
+  updateTemplate: "5 0 * * *"
+  updates: "5 3 * * *"
   uptime: "5,20,35,50 * * * *"
 
 # Upptime also supports notifications, assigning issues, and more
