@@ -40,9 +40,9 @@
     "url": "https://central.azuracast.com",
     "icon": "https://icons.duckduckgo.com/ip3/central.azuracast.com.ico",
     "slug": "azura-cast-central",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 184,
     "timeMonth": 165,
     "timeYear": 165,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-08": 0
+    }
   },
   {
     "name": "AzuraCast Demo Instance",
