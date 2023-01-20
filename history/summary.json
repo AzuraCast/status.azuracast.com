@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.azuracast.com.ico",
     "slug": "azura-cast-homepage",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 305,
-    "timeDay": 289,
-    "timeWeek": 211,
-    "timeMonth": 219,
+    "timeDay": 245,
+    "timeWeek": 213,
+    "timeMonth": 223,
     "timeYear": 305,
     "dailyMinutesDown": {
       "2022-12-10": 25
@@ -24,18 +24,20 @@
     "url": "https://docs.azuracast.com",
     "icon": "https://icons.duckduckgo.com/ip3/docs.azuracast.com.ico",
     "slug": "azura-cast-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 251,
-    "timeDay": 317,
-    "timeWeek": 256,
-    "timeMonth": 257,
-    "timeYear": 251,
-    "dailyMinutesDown": {}
+    "time": 249,
+    "timeDay": 189,
+    "timeWeek": 240,
+    "timeMonth": 253,
+    "timeYear": 249,
+    "dailyMinutesDown": {
+      "2023-01-20": 0
+    }
   },
   {
     "name": "AzuraCast Central",
@@ -48,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 166,
-    "timeDay": 169,
-    "timeWeek": 147,
-    "timeMonth": 164,
-    "timeYear": 166,
+    "time": 165,
+    "timeDay": 149,
+    "timeWeek": 148,
+    "timeMonth": 163,
+    "timeYear": 165,
     "dailyMinutesDown": {
       "2022-12-08": 83
     }
@@ -68,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.93%",
-    "time": 208,
-    "timeDay": 116,
-    "timeWeek": 158,
-    "timeMonth": 188,
-    "timeYear": 208,
+    "time": 207,
+    "timeDay": 162,
+    "timeWeek": 160,
+    "timeMonth": 187,
+    "timeYear": 207,
     "dailyMinutesDown": {
       "2023-01-11": 35,
       "2022-11-16": 32
