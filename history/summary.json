@@ -24,19 +24,20 @@
     "url": "https://docs.azuracast.com",
     "icon": "https://icons.duckduckgo.com/ip3/docs.azuracast.com.ico",
     "slug": "azura-cast-docs",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 249,
-    "timeDay": 189,
-    "timeWeek": 240,
-    "timeMonth": 253,
-    "timeYear": 249,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "92.50%",
+    "uptimeWeek": "98.93%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.89%",
+    "time": 248,
+    "timeDay": 179,
+    "timeWeek": 231,
+    "timeMonth": 250,
+    "timeYear": 248,
     "dailyMinutesDown": {
-      "2023-01-20": 0
+      "2023-01-21": 101,
+      "2023-01-20": 7
     }
   },
   {
