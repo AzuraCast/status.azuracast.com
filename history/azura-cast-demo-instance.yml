@@ -1,7 +1,7 @@
 url: https://demo.azuracast.com/api/nowplaying/1
-status: down
-code: 404
-responseTime: 491
-lastUpdated: 2024-03-04T21:15:45.852Z
+status: up
+code: 200
+responseTime: 179
+lastUpdated: 2024-03-04T22:16:04.051Z
 startTime: 2022-11-13T00:31:48.000Z
 generator: Upptime <https://github.com/upptime/upptime>
