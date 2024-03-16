@@ -4,19 +4,19 @@
     "url": "https://www.azuracast.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.azuracast.com.ico",
     "slug": "azura-cast-homepage",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 207,
-    "timeDay": 198,
-    "timeWeek": 166,
-    "timeMonth": 168,
+    "time": 208,
+    "timeDay": 211,
+    "timeWeek": 174,
+    "timeMonth": 170,
     "timeYear": 183,
     "dailyMinutesDown": {
-      "2024-03-16": 0
+      "2024-03-16": 13
     }
   },
   {
