@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.azuracast.com.ico",
     "slug": "azura-cast-homepage",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 208,
-    "timeDay": 211,
-    "timeWeek": 174,
+    "time": 207,
+    "timeDay": 215,
+    "timeWeek": 187,
     "timeMonth": 170,
     "timeYear": 183,
-    "dailyMinutesDown": {
-      "2024-03-16": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "AzuraCast Docs",
@@ -30,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 267,
-    "timeDay": 177,
-    "timeWeek": 184,
-    "timeMonth": 194,
+    "time": 266,
+    "timeDay": 135,
+    "timeWeek": 185,
+    "timeMonth": 191,
     "timeYear": 203,
     "dailyMinutesDown": {
       "2023-07-30": 70
@@ -51,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 249,
-    "timeDay": 137,
-    "timeWeek": 149,
-    "timeMonth": 153,
+    "timeDay": 133,
+    "timeWeek": 137,
+    "timeMonth": 152,
     "timeYear": 276,
     "dailyMinutesDown": {
       "2024-01-09": 110,
@@ -72,9 +70,9 @@
     "uptimeMonth": "96.79%",
     "uptimeYear": "99.05%",
     "time": 211,
-    "timeDay": 182,
-    "timeWeek": 265,
-    "timeMonth": 267,
+    "timeDay": 214,
+    "timeWeek": 252,
+    "timeMonth": 261,
     "timeYear": 218,
     "dailyMinutesDown": {
       "2024-03-07": 434,
