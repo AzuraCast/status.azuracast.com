@@ -32,7 +32,7 @@
     "timeDay": 182,
     "timeWeek": 208,
     "timeMonth": 196,
-    "timeYear": 201,
+    "timeYear": 200,
     "dailyMinutesDown": {
       "2023-07-30": 70
     }
@@ -64,16 +64,16 @@
     "url": "https://demo.azuracast.com/api/nowplaying/1",
     "icon": "https://icons.duckduckgo.com/ip3/demo.azuracast.com.ico",
     "slug": "azura-cast-demo-instance",
-    "status": "up",
-    "uptime": "98.93%",
+    "status": "down",
+    "uptime": "98.94%",
     "uptimeDay": "37.88%",
     "uptimeWeek": "90.06%",
     "uptimeMonth": "96.58%",
     "uptimeYear": "98.43%",
-    "time": 239,
-    "timeDay": 684,
-    "timeWeek": 403,
-    "timeMonth": 332,
+    "time": 238,
+    "timeDay": 589,
+    "timeWeek": 387,
+    "timeMonth": 329,
     "timeYear": 257,
     "dailyMinutesDown": {
       "2024-06-08": 894,
