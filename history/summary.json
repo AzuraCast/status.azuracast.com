@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 199,
-    "timeDay": 145,
-    "timeWeek": 283,
-    "timeMonth": 291,
+    "timeDay": 180,
+    "timeWeek": 242,
+    "timeMonth": 287,
     "timeYear": 210,
     "dailyMinutesDown": {}
   },
@@ -28,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 250,
-    "timeDay": 386,
-    "timeWeek": 366,
-    "timeMonth": 350,
+    "time": 251,
+    "timeDay": 317,
+    "timeWeek": 360,
+    "timeMonth": 352,
     "timeYear": 268,
     "dailyMinutesDown": {}
   },
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 254,
-    "timeDay": 136,
-    "timeWeek": 170,
-    "timeMonth": 199,
+    "timeDay": 134,
+    "timeWeek": 166,
+    "timeMonth": 197,
     "timeYear": 218,
     "dailyMinutesDown": {
       "2025-01-11": 29,
@@ -64,14 +64,14 @@
     "slug": "azura-cast-demo-instance",
     "status": "up",
     "uptime": "96.74%",
-    "uptimeDay": "2.75%",
+    "uptimeDay": "86.37%",
     "uptimeWeek": "63.49%",
     "uptimeMonth": "91.14%",
     "uptimeYear": "92.36%",
     "time": 463,
-    "timeDay": 365,
-    "timeWeek": 1282,
-    "timeMonth": 837,
+    "timeDay": 473,
+    "timeWeek": 1273,
+    "timeMonth": 833,
     "timeYear": 508,
     "dailyMinutesDown": {
       "2025-05-08": 322,
@@ -147,8 +147,7 @@
       "2024-05-21": 142,
       "2024-05-19": 51,
       "2024-05-14": 50,
-      "2024-05-10": 67,
-      "2024-05-09": 54
+      "2024-05-10": 67
     }
   }
 ]
