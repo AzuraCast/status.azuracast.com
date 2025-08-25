@@ -1,7 +1,7 @@
 url: https://central.azuracast.com
-status: down
-code: 503
-responseTime: 16932
-lastUpdated: 2025-08-25T19:29:25.730Z
+status: up
+code: 200
+responseTime: 15843
+lastUpdated: 2025-08-25T19:40:03.640Z
 startTime: 2022-11-13T00:31:48.000Z
 generator: Upptime <https://github.com/upptime/upptime>
