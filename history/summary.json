@@ -40,15 +40,15 @@
     "url": "https://central.azuracast.com",
     "icon": "https://icons.duckduckgo.com/ip3/central.azuracast.com.ico",
     "slug": "azura-cast-central",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "22.41%",
-    "uptimeWeek": "31.38%",
-    "uptimeMonth": "80.19%",
-    "uptimeYear": "98.35%",
-    "time": 3743,
+    "uptimeDay": "23.70%",
+    "uptimeWeek": "31.55%",
+    "uptimeMonth": "80.33%",
+    "uptimeYear": "98.36%",
+    "time": 3748,
     "timeDay": 13307,
-    "timeWeek": 13727,
+    "timeWeek": 13637,
     "timeMonth": 12000,
     "timeYear": 4740,
     "dailyMinutesDown": {
@@ -61,7 +61,7 @@
       "2025-08-20": 953,
       "2025-08-19": 774,
       "2025-08-18": 1101,
-      "2025-08-17": 396
+      "2025-08-17": 338
     }
   },
   {
@@ -72,8 +72,8 @@
     "status": "down",
     "uptime": "96.65%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "40.02%",
-    "uptimeMonth": "84.74%",
+    "uptimeWeek": "39.83%",
+    "uptimeMonth": "84.70%",
     "uptimeYear": "90.98%",
     "time": 544,
     "timeDay": 6367,
@@ -81,7 +81,7 @@
     "timeMonth": 771,
     "timeYear": 606,
     "dailyMinutesDown": {
-      "2025-08-26": 515,
+      "2025-08-26": 534,
       "2025-08-25": 1440,
       "2025-08-24": 1440,
       "2025-08-23": 1440,
