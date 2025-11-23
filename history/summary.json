@@ -74,18 +74,19 @@
     "url": "https://demo.azuracast.com/api/nowplaying/1",
     "icon": "https://icons.duckduckgo.com/ip3/demo.azuracast.com.ico",
     "slug": "azura-cast-demo-instance",
-    "status": "up",
-    "uptime": "95.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "96.25%",
-    "uptimeMonth": "97.66%",
+    "status": "down",
+    "uptime": "95.86%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "96.56%",
+    "uptimeMonth": "97.74%",
     "uptimeYear": "87.43%",
     "time": 690,
-    "timeDay": 315,
-    "timeWeek": 1220,
-    "timeMonth": 567,
-    "timeYear": 787,
+    "timeDay": 369,
+    "timeWeek": 1279,
+    "timeMonth": 574,
+    "timeYear": 786,
     "dailyMinutesDown": {
+      "2025-11-23": 0,
       "2025-11-21": 74,
       "2025-11-20": 74,
       "2025-11-19": 31,
@@ -202,8 +203,7 @@
       "2025-04-07": 33,
       "2025-03-31": 33,
       "2025-03-28": 33,
-      "2025-03-24": 34,
-      "2025-03-11": 33
+      "2025-03-24": 34
     }
   }
 ]
