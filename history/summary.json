@@ -76,7 +76,7 @@
     "slug": "azura-cast-demo-instance",
     "status": "down",
     "uptime": "95.87%",
-    "uptimeDay": "97.89%",
+    "uptimeDay": "97.65%",
     "uptimeWeek": "97.35%",
     "uptimeMonth": "97.46%",
     "uptimeYear": "87.43%",
@@ -86,7 +86,7 @@
     "timeMonth": 577,
     "timeYear": 783,
     "dailyMinutesDown": {
-      "2025-11-27": 0,
+      "2025-11-27": 4,
       "2025-11-26": 30,
       "2025-11-25": 31,
       "2025-11-23": 59,
