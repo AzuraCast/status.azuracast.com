@@ -76,17 +76,17 @@
     "slug": "azura-cast-demo-instance",
     "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "94.91%",
-    "uptimeWeek": "95.18%",
-    "uptimeMonth": "92.55%",
+    "uptimeDay": "92.82%",
+    "uptimeWeek": "94.88%",
+    "uptimeMonth": "92.48%",
     "uptimeYear": "98.66%",
     "time": 694,
-    "timeDay": 192,
-    "timeWeek": 236,
-    "timeMonth": 378,
-    "timeYear": 741,
+    "timeDay": 209,
+    "timeWeek": 237,
+    "timeMonth": 375,
+    "timeYear": 739,
     "dailyMinutesDown": {
-      "2026-03-22": 41,
+      "2026-03-22": 71,
       "2026-03-21": 32,
       "2026-03-20": 167,
       "2026-03-19": 193,
@@ -155,7 +155,7 @@
       "2025-12-15": 70,
       "2025-12-13": 155,
       "2025-12-12": 63,
-      "2025-12-11": 97
+      "2025-12-11": 63
     }
   }
 ]
