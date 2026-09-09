@@ -12,8 +12,8 @@
     "uptimeYear": "99.99%",
     "time": 225,
     "timeDay": 60,
-    "timeWeek": 129,
-    "timeMonth": 147,
+    "timeWeek": 110,
+    "timeMonth": 146,
     "timeYear": 220,
     "dailyMinutesDown": {
       "2025-11-18": 70
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 299,
-    "timeDay": 179,
-    "timeWeek": 272,
-    "timeMonth": 231,
+    "timeDay": 200,
+    "timeWeek": 249,
+    "timeMonth": 232,
     "timeYear": 254,
     "dailyMinutesDown": {
       "2025-11-18": 112
@@ -45,16 +45,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/central.azuracast.com.ico",
     "slug": "azura-cast-central",
     "status": "up",
-    "uptime": "99.56%",
+    "uptime": "99.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 2458,
-    "timeDay": 163,
-    "timeWeek": 163,
-    "timeMonth": 149,
-    "timeYear": 126,
+    "time": 2453,
+    "timeDay": 427,
+    "timeWeek": 188,
+    "timeMonth": 159,
+    "timeYear": 127,
     "dailyMinutesDown": {
       "2025-11-18": 172
     }
@@ -71,10 +71,10 @@
     "uptimeMonth": "97.69%",
     "uptimeYear": "98.26%",
     "time": 615,
-    "timeDay": 165,
-    "timeWeek": 224,
-    "timeMonth": 223,
-    "timeYear": 579,
+    "timeDay": 303,
+    "timeWeek": 220,
+    "timeMonth": 224,
+    "timeYear": 575,
     "dailyMinutesDown": {
       "2026-01-14": 25,
       "2026-01-16": 54,
