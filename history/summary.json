@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 211,
-    "timeDay": 171,
-    "timeWeek": 150,
+    "timeDay": 175,
+    "timeWeek": 162,
     "timeMonth": 131,
     "timeYear": 215,
-    "dailyMinutesDown": {
-      "2025-11-18": 70
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "AzuraCast Docs",
@@ -31,13 +29,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 291,
-    "timeDay": 193,
-    "timeWeek": 236,
-    "timeMonth": 240,
+    "timeDay": 310,
+    "timeWeek": 252,
+    "timeMonth": 242,
     "timeYear": 250,
-    "dailyMinutesDown": {
-      "2025-11-18": 112
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "AzuraCast Central",
@@ -50,14 +46,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 975,
-    "timeDay": 160,
-    "timeWeek": 191,
-    "timeMonth": 154,
+    "time": 973,
+    "timeDay": 108,
+    "timeWeek": 190,
+    "timeMonth": 151,
     "timeYear": 130,
-    "dailyMinutesDown": {
-      "2025-11-18": 172
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "AzuraCast Demo Instance",
@@ -66,14 +60,14 @@
     "slug": "azura-cast-demo-instance",
     "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "72.33%",
+    "uptimeDay": "81.31%",
     "uptimeWeek": "96.05%",
     "uptimeMonth": "98.16%",
     "uptimeYear": "97.76%",
     "time": 602,
-    "timeDay": 104,
-    "timeWeek": 215,
-    "timeMonth": 235,
+    "timeDay": 305,
+    "timeWeek": 255,
+    "timeMonth": 240,
     "timeYear": 475,
     "dailyMinutesDown": {
       "2026-01-21": 64,
