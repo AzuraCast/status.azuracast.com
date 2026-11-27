@@ -59,11 +59,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/demo.azuracast.com.ico",
     "slug": "azura-cast-demo-instance",
     "status": "down",
-    "uptime": "99.44%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.67%",
-    "uptimeYear": "97.73%",
+    "uptime": "99.43%",
+    "uptimeDay": "86.63%",
+    "uptimeWeek": "98.09%",
+    "uptimeMonth": "98.23%",
+    "uptimeYear": "97.70%",
     "time": 487,
     "timeDay": 9746,
     "timeWeek": 1588,
@@ -152,7 +152,7 @@
       "2026-10-23": 59,
       "2026-11-17": 399,
       "2026-11-19": 183,
-      "2026-11-27": 0
+      "2026-11-27": 192
     }
   }
 ]
